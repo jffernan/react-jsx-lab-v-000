@@ -6,7 +6,7 @@ class RegistrationForm extends React.Component {
       <form>
       <label>Username</label>
       <input type="text" />
-      
+      <label>Password</label>
       </form>
     );
   }
